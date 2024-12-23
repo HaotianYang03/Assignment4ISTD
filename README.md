@@ -10,8 +10,7 @@ Dataset
         ├─测试集
         │  ├─MDvsFA
         │  │  ├─image
-        │  │  ├─mask
-        │  │  └─result
+        │  │  └─mask
         │  │    
         │  └─SIRST
         │      ├─image
@@ -19,3 +18,5 @@ Dataset
         └─训练集
             ├─image
             └─mask
+
+111
