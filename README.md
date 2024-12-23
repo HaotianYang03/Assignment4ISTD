@@ -26,6 +26,6 @@ Dataset
 ## 2. environment configuration
 
 ```plaintext
-$ conda env create -f conda_environment.yaml
+$ conda env create -f environment.yaml
 ```
 
