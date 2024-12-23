@@ -22,3 +22,10 @@ Dataset
 ```
 百度网盘: https://pan.baidu.com/s/1HQX9FjJwRHZY5xx0z2DZRA
 提取码：7ey5
+
+## 2. environment configuration
+
+```plaintext
+$ conda env create -f conda_environment.yaml
+```
+
